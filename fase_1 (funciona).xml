@@ -1,0 +1,3207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raiz>
+<!-- Año 2021 -->
+    <año año="2021">
+        <!-- Primer trimestre -->
+        <trimestre numero="1">
+            <!-- Pedidos -->
+            <pedidos>
+                <!-- Pedido 1 -->
+                <pedido>
+                    <nombre>Juan</nombre>
+                    <apellidos>González</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 123</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28001</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>juan@gmail.com</correo>
+                    <fecha_inclusion>2021-01-05</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1001</numero_pedido>
+                        <fecha_compra>2021-01-05</fecha_compra>
+                        <fecha_entrega>2021-01-10</fecha_entrega>
+                        <total_factura>150.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camiseta manga corta</nombre>
+                                <referencia>CMC001</referencia>
+                                <precio>30.00</precio>
+                                <unidades>2</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón chino</nombre>
+                                <referencia>PCH002</referencia>
+                                <precio>45.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 1 -->
+                <pedido>
+                    <nombre>Juan</nombre>
+                    <apellidos>González</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 123</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28001</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>juan@gmail.com</correo>
+                    <fecha_inclusion>2021-01-05</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1001</numero_pedido>
+                        <fecha_compra>2021-01-05</fecha_compra>
+                        <fecha_entrega>2021-01-10</fecha_entrega>
+                        <total_factura>150.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camiseta manga corta</nombre>
+                                <referencia>CMC001</referencia>
+                                <precio>30.00</precio>
+                                <unidades>2</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón chino</nombre>
+                                <referencia>PCH002</referencia>
+                                <precio>45.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 2 -->
+                <pedido>
+                    <nombre>María</nombre>
+                    <apellidos>López</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 456</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08002</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>maria@gmail.com</correo>
+                    <fecha_inclusion>2021-01-10</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1002</numero_pedido>
+                        <fecha_compra>2021-01-10</fecha_compra>
+                        <fecha_entrega>2021-01-15</fecha_entrega>
+                        <total_factura>120.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta de invierno</nombre>
+                                <referencia>CIW001</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Bufanda de lana</nombre>
+                                <referencia>BLW002</referencia>
+                                <precio>30.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 3 -->
+                <pedido>
+                    <nombre>Luis</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle Sol 789</calle>
+                        <ciudad>Valencia</ciudad>
+                        <codigo_postal>46001</codigo_postal>
+                        <provincia>Valencia</provincia>
+                    </direccion>
+                    <correo>luis@hotmail.com</correo>
+                    <fecha_inclusion>2021-01-15</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1003</numero_pedido>
+                        <fecha_compra>2021-01-15</fecha_compra>
+                        <fecha_entrega>2021-01-20</fecha_entrega>
+                        <total_factura>80.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Jersey de punto</nombre>
+                                <referencia>JDP003</referencia>
+                                <precio>40.00</precio>
+                                <unidades>2</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+
+                <!-- Pedido 4 -->
+                <pedido>
+                    <nombre>Pablo</nombre>
+                    <apellidos>García</apellidos>
+                    <telefono>789123456</telefono>
+                    <direccion>
+                        <calle>Calle Alcalá 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28003</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>pablo@gmail.com</correo>
+                    <fecha_inclusion>2021-01-20</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1004</numero_pedido>
+                        <fecha_compra>2021-01-20</fecha_compra>
+                        <fecha_entrega>2021-01-25</fecha_entrega>
+                        <total_factura>95.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Pantalón vaquero</nombre>
+                                <referencia>PV004</referencia>
+                                <precio>25.00</precio>
+                                <unidades>2</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Camiseta de algodón</nombre>
+                                <referencia>CA005</referencia>
+                                <precio>20.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 5 -->
+                <pedido>
+                    <nombre>Lucía</nombre>
+                    <apellidos>Jiménez</apellidos>
+                    <telefono>369258147</telefono>
+                    <direccion>
+                        <calle>Paseo de Gracia 123</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08003</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>lucia@yahoo.com</correo>
+                    <fecha_inclusion>2021-01-25</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1005</numero_pedido>
+                        <fecha_compra>2021-01-25</fecha_compra>
+                        <fecha_entrega>2021-01-30</fecha_entrega>
+                        <total_factura>200.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Abrigo de invierno</nombre>
+                                <referencia>AI006</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Bufanda de seda</nombre>
+                                <referencia>BS007</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Guantes de piel</nombre>
+                                <referencia>GP008</referencia>
+                                <precio>25.00</precio>
+                                <unidades>2</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 6 -->
+                <pedido>
+                    <nombre>Marta</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>123789456</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28004</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>marta@gmail.com</correo>
+                    <fecha_inclusion>2021-02-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1006</numero_pedido>
+                        <fecha_compra>2021-02-01</fecha_compra>
+                        <fecha_entrega>2021-02-06</fecha_entrega>
+                        <total_factura>180.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta de punto</nombre>
+                                <referencia>CP009</referencia>
+                                <precio>60.00</precio>
+                                <unidades>2</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de mezclilla</nombre>
+                                <referencia>PM010</referencia>
+                                <precio>30.00</precio>
+                                <unidades>2</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 7 -->
+                <pedido>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Paseo de Gracia 456</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08004</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>carlos@hotmail.com</correo>
+                    <fecha_inclusion>2021-02-05</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1007</numero_pedido>
+                        <fecha_compra>2021-02-05</fecha_compra>
+                        <fecha_entrega>2021-02-10</fecha_entrega>
+                        <total_factura>120.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camisa de cuadros</nombre>
+                                <referencia>CC011</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón deportivo</nombre>
+                                <referencia>PD012</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 8 -->
+                <pedido>
+                    <nombre>Ana</nombre>
+                    <apellidos>García</apellidos>
+                    <telefono>654987321</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28005</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>ana@gmail.com</correo>
+                    <fecha_inclusion>2021-02-10</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1008</numero_pedido>
+                        <fecha_compra>2021-02-10</fecha_compra>
+                        <fecha_entrega>2021-02-15</fecha_entrega>
+                        <total_factura>95.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Jersey de algodón</nombre>
+                                <referencia>JA013</referencia>
+                                <precio>25.00</precio>
+                                <unidades>2</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Camiseta básica</nombre>
+                                <referencia>CB014</referencia>
+                                <precio>20.00</precio>
+                                <unidades>3</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 9 -->
+                <pedido>
+                    <nombre>Pablo</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>369258147</telefono>
+                    <direccion>
+                        <calle>Calle Alcalá 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28006</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>pablo@yahoo.com</correo>
+                    <fecha_inclusion>2021-02-15</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1009</numero_pedido>
+                        <fecha_compra>2021-02-15</fecha_compra>
+                        <fecha_entrega>2021-02-20</fecha_entrega>
+                        <total_factura>200.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Abrigo de lana</nombre>
+                                <referencia>AL015</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Guantes de lana</nombre>
+                                <referencia>GL016</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 10 -->
+                <pedido>
+                    <nombre>Laura</nombre>
+                    <apellidos>López</apellidos>
+                    <telefono>456789123</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28007</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>laura@gmail.com</correo>
+                    <fecha_inclusion>2021-02-20</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1010</numero_pedido>
+                        <fecha_compra>2021-02-20</fecha_compra>
+                        <fecha_entrega>2021-02-25</fecha_entrega>
+                        <total_factura>150.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta vaquera</nombre>
+                                <referencia>CV017</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Falda de cuero</nombre>
+                                <referencia>FC018</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <!-- Otros productos... -->
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+            </pedidos>
+        </trimestre>
+        <!-- Otros trimestres... -->
+
+    <trimestre numero="2">
+        <pedidos>    
+
+            <!-- Pedido 1 -->
+            <pedido>
+                <nombre>Laura</nombre>
+                <apellidos>García</apellidos>
+                <telefono>654987321</telefono>
+                <direccion>
+                    <calle>Calle del Sol 123</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08001</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>laura@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1006</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Falda estampada</nombre>
+                            <referencia>FE008</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Blusa de seda</nombre>
+                            <referencia>BS009</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 2 -->
+            <pedido>
+                <nombre>Carlos</nombre>
+                <apellidos>Martínez</apellidos>
+                <telefono>789654321</telefono>
+                <direccion>
+                    <calle>Avenida de la Paz 456</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28002</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>carlos@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1007</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>230.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Chaqueta de cuero</nombre>
+                            <referencia>CC010</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Camisa de algodón</nombre>
+                            <referencia>CA011</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 3 -->
+            <pedido>
+                <nombre>Ana</nombre>
+                <apellidos>Ruiz</apellidos>
+                <telefono>123456789</telefono>
+                <direccion>
+                    <calle>Calle Mayor 789</calle>
+                    <ciudad>Valencia</ciudad>
+                    <codigo_postal>46002</codigo_postal>
+                    <provincia>Valencia</provincia>
+                </direccion>
+                <correo>ana@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1008</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Pantalón de mezclilla</nombre>
+                            <referencia>PM012</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Camiseta básica</nombre>
+                            <referencia>CB013</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 4 -->
+            <pedido>
+                <nombre>David</nombre>
+                <apellidos>Fernández</apellidos>
+                <telefono>987654321</telefono>
+                <direccion>
+                    <calle>Paseo de la Castellana 123</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28046</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>david@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1009</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Botas de montaña</nombre>
+                            <referencia>BM014</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Calcetines térmicos</nombre>
+                            <referencia>CT015</referencia>
+                            <precio>20.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 5 -->
+            <pedido>
+                <nombre>Sofía</nombre>
+                <apellidos>Rodríguez</apellidos>
+                <telefono>456789123</telefono>
+                <direccion>
+                    <calle>Plaza de España 1</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08008</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>sofia@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1010</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Jersey de lana</nombre>
+                            <referencia>JL016</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón deportivo</nombre>
+                            <referencia>PD017</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Zapatillas de running</nombre>
+                            <referencia>ZR018</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 6 -->
+            <pedido>
+                <nombre>Marcos</nombre>
+                <apellidos>Sánchez</apellidos>
+                <telefono>789123456</telefono>
+                <direccion>
+                    <calle>Calle Gran Vía 789</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28013</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>marcos@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1011</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>300.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Traje de vestir</nombre>
+                            <referencia>TV019</referencia>
+                            <precio>200.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Corbata a rayas</nombre>
+                            <referencia>CR020</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Camisa blanca</nombre>
+                            <referencia>CB021</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 7 -->
+            <pedido>
+                <nombre>Lucía</nombre>
+                <apellidos>Moreno</apellidos>
+                <telefono>123789456</telefono>
+                <direccion>
+                    <calle>Paseo de Gracia 456</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08007</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>lucia@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1012</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Sombrero de paja</nombre>
+                            <referencia>SP022</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Gafas de sol</nombre>
+                            <referencia>GS023</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bufanda de lana</nombre>
+                            <referencia>BL024</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 8 -->
+            <pedido>
+                <nombre>Javier</nombre>
+                <apellidos>Jiménez</apellidos>
+                <telefono>456123789</telefono>
+                <direccion>
+                    <calle>Ronda de Toledo 789</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28005</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>javier@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1013</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Guantes de cuero</nombre>
+                            <referencia>GC025</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bufanda de lana</nombre>
+                            <referencia>BL026</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Gorra deportiva</nombre>
+                            <referencia>GD027</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 9 -->
+            <pedido>
+                <nombre>Elena</nombre>
+                <apellidos>Gómez</apellidos>
+                <telefono>987321654</telefono>
+                <direccion>
+                    <calle>Paseo de la Reforma 123</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28008</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>elena@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1014</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Jersey de punto</nombre>
+                            <referencia>JP028</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón de vestir</nombre>
+                            <referencia>PV029</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 10 -->
+            <pedido>
+                <nombre>María</nombre>
+                <apellidos>Rodríguez</apellidos>
+                <telefono>321987654</telefono>
+                <direccion>
+                    <calle>Calle Mayor 789</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28004</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>maria@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1015</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Vestido de fiesta</nombre>
+                            <referencia>VF030</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Tacones de plataforma</nombre>
+                            <referencia>TP031</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </pedidos>
+    </trimestre>
+
+
+    <trimestre numero="3">
+        <pedidos>
+            <!-- Pedido 11 -->
+            <pedido>
+                <nombre>Marta</nombre>
+                <apellidos>López</apellidos>
+                <telefono>789321654</telefono>
+                <direccion>
+                    <calle>Calle Gran Vía 456</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28013</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>marta@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1016</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>250.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Vestido estampado</nombre>
+                            <referencia>VE032</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Sandalias de cuero</nombre>
+                            <referencia>SC033</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso de mano</nombre>
+                            <referencia>BM034</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 12 -->
+            <pedido>
+                <nombre>Diego</nombre>
+                <apellidos>Ruíz</apellidos>
+                <telefono>987456321</telefono>
+                <direccion>
+                    <calle>Calle Mayor 456</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08003</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>diego@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1017</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camisa a cuadros</nombre>
+                            <referencia>CC035</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón de mezclilla</nombre>
+                            <referencia>PM036</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Chaqueta vaquera</nombre>
+                            <referencia>CV037</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 13 -->
+            <pedido>
+                <nombre>Lucas</nombre>
+                <apellidos>Gómez</apellidos>
+                <telefono>321789456</telefono>
+                <direccion>
+                    <calle>Paseo de Gracia 789</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08007</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>lucas@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1018</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>210.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Sudadera con capucha</nombre>
+                            <referencia>SC038</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón deportivo</nombre>
+                            <referencia>PD039</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Zapatillas de deporte</nombre>
+                            <referencia>ZD040</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 14 -->
+            <pedido>
+                <nombre>Paula</nombre>
+                <apellidos>Jiménez</apellidos>
+                <telefono>456987321</telefono>
+                <direccion>
+                    <calle>Calle Mayor 789</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28004</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>paula@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1019</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>140.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta básica</nombre>
+                            <referencia>CB041</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Jeans desgastados</nombre>
+                            <referencia>JD042</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Zapatillas urbanas</nombre>
+                            <referencia>ZU043</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 15 -->
+            <pedido>
+                <nombre>Pablo</nombre>
+                <apellidos>Ramírez</apellidos>
+                <telefono>987654123</telefono>
+                <direccion>
+                    <calle>Calle Gran Vía 123</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28013</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>pablo@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1020</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Jersey de lana</nombre>
+                            <referencia>JL044</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bufanda de punto</nombre>
+                            <referencia>BP045</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Guantes de lana</nombre>
+                            <referencia>GL046</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 16 -->
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Rodríguez</apellidos>
+                <telefono>321456987</telefono>
+                <direccion>
+                    <calle>Paseo de la Castellana 456</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28046</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>sara@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1021</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Chaqueta acolchada</nombre>
+                            <referencia>CA047</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bufanda de lana</nombre>
+                            <referencia>BL048</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Guantes térmicos</nombre>
+                            <referencia>GT049</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 17 -->
+            <pedido>
+                <nombre>Emma</nombre>
+                <apellidos>Fernández</apellidos>
+                <telefono>987321456</telefono>
+                <direccion>
+                    <calle>Ronda de Toledo 789</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28005</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>emma@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1022</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Sudadera deportiva</nombre>
+                            <referencia>SD050</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón de chándal</nombre>
+                            <referencia>PC051</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Zapatillas de running</nombre>
+                            <referencia>ZR052</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 18 -->
+            <pedido>
+                <nombre>Mario</nombre>
+                <apellidos>Ramón</apellidos>
+                <telefono>789456123</telefono>
+                <direccion>
+                    <calle>Paseo de Gracia 456</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08007</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>mario@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1023</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta estampada</nombre>
+                            <referencia>CE053</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón corto</nombre>
+                            <referencia>PC054</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Gorra de béisbol</nombre>
+                            <referencia>GB055</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 19 -->
+            <pedido>
+                <nombre>Adriana</nombre>
+                <apellidos>Alonso</apellidos>
+                <telefono>654789321</telefono>
+                <direccion>
+                    <calle>Calle Mayor 123</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28004</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>adriana@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1024</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>300.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Chaqueta de cuero</nombre>
+                            <referencia>CC056</referencia>
+                            <precio>200.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bufanda de seda</nombre>
+                            <referencia>BS057</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Gafas de sol polarizadas</nombre>
+                            <referencia>GS058</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 20 -->
+            <pedido>
+                <nombre>Carlos</nombre>
+                <apellidos>García</apellidos>
+                <telefono>321654789</telefono>
+                <direccion>
+                    <calle>Paseo de la Castellana 789</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28046</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>carlos@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1025</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>160.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta manga larga</nombre>
+                            <referencia>CL059</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón cargo</nombre>
+                            <referencia>PC060</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Gorra de invierno</nombre>
+                            <referencia>GI061</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </pedidos>
+    </trimestre>
+
+
+    <trimestre numero="4">
+        <pedidos>
+            <!-- Pedido 11 -->
+            <pedido>
+                <nombre>Marta</nombre>
+                <apellidos>López</apellidos>
+                <telefono>789321654</telefono>
+                <direccion>
+                    <calle>Calle Gran Vía 456</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28013</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>marta@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1016</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>250.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Vestido estampado</nombre>
+                            <referencia>VE032</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Sandalias de cuero</nombre>
+                            <referencia>SC033</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso de mano</nombre>
+                            <referencia>BM034</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 12 -->
+            <pedido>
+                <nombre>Diego</nombre>
+                <apellidos>Ruíz</apellidos>
+                <telefono>987456321</telefono>
+                <direccion>
+                    <calle>Calle Mayor 456</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08003</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>diego@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1017</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camisa a cuadros</nombre>
+                            <referencia>CC035</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón de mezclilla</nombre>
+                            <referencia>PM036</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Chaqueta vaquera</nombre>
+                            <referencia>CV037</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 13 -->
+            <pedido>
+                <nombre>Lucas</nombre>
+                <apellidos>Gómez</apellidos>
+                <telefono>321789456</telefono>
+                <direccion>
+                    <calle>Paseo de Gracia 789</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08007</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>lucas@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1018</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>210.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Sudadera con capucha</nombre>
+                            <referencia>SC038</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón deportivo</nombre>
+                            <referencia>PD039</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Zapatillas de deporte</nombre>
+                            <referencia>ZD040</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 14 -->
+            <pedido>
+                <nombre>Paula</nombre>
+                <apellidos>Jiménez</apellidos>
+                <telefono>456987321</telefono>
+                <direccion>
+                    <calle>Calle Mayor 789</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28004</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>paula@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1019</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>140.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta básica</nombre>
+                            <referencia>CB041</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Jeans desgastados</nombre>
+                            <referencia>JD042</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Zapatillas urbanas</nombre>
+                            <referencia>ZU043</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 15 -->
+            <pedido>
+                <nombre>Pablo</nombre>
+                <apellidos>Ramírez</apellidos>
+                <telefono>987654123</telefono>
+                <direccion>
+                    <calle>Calle Gran Vía 123</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28013</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>pablo@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1020</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Jersey de lana</nombre>
+                            <referencia>JL044</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bufanda de punto</nombre>
+                            <referencia>BP045</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Guantes de lana</nombre>
+                            <referencia>GL046</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 16 -->
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Rodríguez</apellidos>
+                <telefono>321456987</telefono>
+                <direccion>
+                    <calle>Paseo de la Castellana 456</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28046</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>sara@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1021</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Chaqueta acolchada</nombre>
+                            <referencia>CA047</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bufanda de lana</nombre>
+                            <referencia>BL048</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Guantes térmicos</nombre>
+                            <referencia>GT049</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 17 -->
+            <pedido>
+                <nombre>Emma</nombre>
+                <apellidos>Fernández</apellidos>
+                <telefono>987321456</telefono>
+                <direccion>
+                    <calle>Ronda de Toledo 789</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28005</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>emma@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1022</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Sudadera deportiva</nombre>
+                            <referencia>SD050</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón de chándal</nombre>
+                            <referencia>PC051</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Zapatillas de running</nombre>
+                            <referencia>ZR052</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 18 -->
+            <pedido>
+                <nombre>Mario</nombre>
+                <apellidos>Ramón</apellidos>
+                <telefono>789456123</telefono>
+                <direccion>
+                    <calle>Paseo de Gracia 456</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08007</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>mario@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1023</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta estampada</nombre>
+                            <referencia>CE053</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón corto</nombre>
+                            <referencia>PC054</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Gorra de béisbol</nombre>
+                            <referencia>GB055</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 19 -->
+            <pedido>
+                <nombre>Adriana</nombre>
+                <apellidos>Alonso</apellidos>
+                <telefono>654789321</telefono>
+                <direccion>
+                    <calle>Calle Mayor 123</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28004</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>adriana@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1024</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>300.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Chaqueta de cuero</nombre>
+                            <referencia>CC056</referencia>
+                            <precio>200.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bufanda de seda</nombre>
+                            <referencia>BS057</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Gafas de sol polarizadas</nombre>
+                            <referencia>GS058</referencia>
+                            <precio>50.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Pedido 20 -->
+            <pedido>
+                <nombre>Carlos</nombre>
+                <apellidos>García</apellidos>
+                <telefono>321654789</telefono>
+                <direccion>
+                    <calle>Paseo de la Castellana 789</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28046</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>carlos@example.com</correo>
+                <fecha_inclusion>2024-02-28</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>1025</numero_pedido>
+                    <fecha_compra>2024-02-28</fecha_compra>
+                    <fecha_entrega>2024-03-05</fecha_entrega>
+                    <total_factura>160.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta manga larga</nombre>
+                            <referencia>CL059</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Pantalón cargo</nombre>
+                            <referencia>PC060</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Gorra de invierno</nombre>
+                            <referencia>GI061</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </pedidos>
+    </trimestre>
+    </año>
+
+    <!-- Año 2022-->
+    <año año="2022">
+        <trimestre numero="1">
+            <pedidos>
+                <!-- Pedido 31 -->
+                <pedido>
+                    <nombre>Marta</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987321654</telefono>
+                    <direccion>
+                        <calle>Calle Serrano 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28006</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>marta@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1036</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>220.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camisa de cuadros</nombre>
+                                <referencia>CC092</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón vaquero</nombre>
+                                <referencia>PV093</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatos de piel</nombre>
+                                <referencia>ZP094</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 32 -->
+                <pedido>
+                    <nombre>Elena</nombre>
+                    <apellidos>López</apellidos>
+                    <telefono>654987321</telefono>
+                    <direccion>
+                        <calle>Paseo de Gracia 456</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08008</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>elena@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1037</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>180.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Blusa de encaje</nombre>
+                                <referencia>BE095</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón culotte</nombre>
+                                <referencia>PC096</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Botines de cuero</nombre>
+                                <referencia>BC097</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 33 -->
+                <pedido>
+                    <nombre>Pablo</nombre>
+                    <apellidos>García</apellidos>
+                    <telefono>789321654</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28013</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>pablo@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1038</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>150.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Jersey de lana</nombre>
+                                <referencia>JL098</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de deporte</nombre>
+                                <referencia>PD099</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas deportivas</nombre>
+                                <referencia>ZD100</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 34 -->
+                <pedido>
+                    <nombre>Isabel</nombre>
+                    <apellidos>Moreno</apellidos>
+                    <telefono>321654987</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 789</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08002</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>isabel@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1039</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>130.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camiseta rayada</nombre>
+                                <referencia>CR101</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón corto</nombre>
+                                <referencia>PC102</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas de lona</nombre>
+                                <referencia>ZL103</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 35 -->
+                <pedido>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Sánchez</apellidos>
+                    <telefono>987456321</telefono>
+                    <direccion>
+                        <calle>Calle Serrano 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28006</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>roberto@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1040</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>180.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta de cuero</nombre>
+                                <referencia>CC104</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Camiseta estampada</nombre>
+                                <referencia>CE105</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de vestir</nombre>
+                                <referencia>PV106</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 36 -->
+                <pedido>
+                    <nombre>María</nombre>
+                    <apellidos>Jiménez</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Ronda de Toledo 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28005</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>maria@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1041</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>150.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Sudadera con capucha</nombre>
+                                <referencia>SC107</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón jogger</nombre>
+                                <referencia>PJ108</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas deportivas</nombre>
+                                <referencia>ZD109</referencia>
+                                <precio>30.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 37 -->
+                <pedido>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>321987654</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28004</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>luisa@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1042</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>200.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Jersey de punto</nombre>
+                                <referencia>JP110</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Falda midi</nombre>
+                                <referencia>FM111</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Botas de tacón</nombre>
+                                <referencia>BT112</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 38 -->
+                <pedido>
+                    <nombre>Jorge</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 456</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08007</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>jorge@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1043</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>180.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camisa de vestir</nombre>
+                                <referencia>CV113</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de traje</nombre>
+                                <referencia>PT114</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatos Oxford</nombre>
+                                <referencia>ZO115</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 39 -->
+                <pedido>
+                    <nombre>Adrián</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>321654987</telefono>
+                    <direccion>
+                        <calle>Paseo de Gracia 789</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08008</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>adrian@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1044</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>250.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta acolchada</nombre>
+                                <referencia>CA116</referencia>
+                                <precio>120.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Bufanda de lana</nombre>
+                                <referencia>BL117</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Guantes de cuero</nombre>
+                                <referencia>GC118</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 40 -->
+                <pedido>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ramírez</apellidos>
+                    <telefono>789123654</telefono>
+                    <direccion>
+                        <calle>Ronda de Toledo 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28005</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>ana@example.com</correo>
+                    <fecha_inclusion>2024-02-29</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1045</numero_pedido>
+                        <fecha_compra>2024-02-29</fecha_compra>
+                        <fecha_entrega>2024-03-06</fecha_entrega>
+                        <total_factura>200.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Abrigo de lana</nombre>
+                                <referencia>AL119</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Bufanda de algodón</nombre>
+                                <referencia>BA120</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Guantes térmicos</nombre>
+                                <referencia>GT121</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+            </pedidos>
+        </trimestre>
+
+        <trimestre numero="2">
+            <pedidos>
+                <!-- Pedido 41 -->
+                <pedido>
+                    <nombre>Luis</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>654789321</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 789</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08007</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>luis@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1046</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>180.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camiseta de rayas</nombre>
+                                <referencia>CR122</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón corto</nombre>
+                                <referencia>PC123</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas de deporte</nombre>
+                                <referencia>ZD124</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 42 -->
+                <pedido>
+                    <nombre>Ana</nombre>
+                    <apellidos>García</apellidos>
+                    <telefono>987321654</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28004</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>ana@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1047</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>200.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Abrigo de invierno</nombre>
+                                <referencia>AI125</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Bufanda de lana</nombre>
+                                <referencia>BL126</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Guantes de cuero</nombre>
+                                <referencia>GC127</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 43 -->
+                <pedido>
+                    <nombre>Miguel</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>654987321</telefono>
+                    <direccion>
+                        <calle>Ronda de Toledo 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28005</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>miguel@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1048</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>150.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Sudadera con capucha</nombre>
+                                <referencia>SC128</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón jogger</nombre>
+                                <referencia>PJ129</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas deportivas</nombre>
+                                <referencia>ZD130</referencia>
+                                <precio>30.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 44 -->
+                <pedido>
+                    <nombre>Lucas</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>321654987</telefono>
+                    <direccion>
+                        <calle>Calle Serrano 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28006</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>lucas@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1049</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>220.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camisa de cuadros</nombre>
+                                <referencia>CC131</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón vaquero</nombre>
+                                <referencia>PV132</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatos de piel</nombre>
+                                <referencia>ZP133</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 45 -->
+                <pedido>
+                    <nombre>Paula</nombre>
+                    <apellidos>González</apellidos>
+                    <telefono>987321654</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 456</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08008</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>paula@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1050</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>170.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Blusa de encaje</nombre>
+                                <referencia>BE134</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón culotte</nombre>
+                                <referencia>PC135</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Botines de cuero</nombre>
+                                <referencia>BC136</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 46 -->
+                <pedido>
+                    <nombre>Javier</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>321987654</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28013</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>javier@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1051</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>190.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Jersey de lana</nombre>
+                                <referencia>JL137</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de deporte</nombre>
+                                <referencia>PD138</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas deportivas</nombre>
+                                <referencia>ZD139</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 47 -->
+                <pedido>
+                    <nombre>Elena</nombre>
+                    <apellidos>Ramírez</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Serrano 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28006</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>elena@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1052</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>210.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta de cuero</nombre>
+                                <referencia>CC140</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Camiseta estampada</nombre>
+                                <referencia>CE141</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de vestir</nombre>
+                                <referencia>PV142</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 48 -->
+                <pedido>
+                    <nombre>María</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>321987654</telefono>
+                    <direccion>
+                        <calle>Ronda de Toledo 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28005</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>maria@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1053</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>230.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Jersey de punto</nombre>
+                                <referencia>JP143</referencia>
+                                <precio>90.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Falda midi</nombre>
+                                <referencia>FM144</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Botas de tacón</nombre>
+                                <referencia>BT145</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 49 -->
+                <pedido>
+                    <nombre>Juan</nombre>
+                    <apellidos>López</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 123</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28001</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>juan@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1054</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>190.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camisa de vestir</nombre>
+                                <referencia>CV146</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de traje</nombre>
+                                <referencia>PT147</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatos Oxford</nombre>
+                                <referencia>ZO148</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 50 -->
+                <pedido>
+                    <nombre>Carla</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Paseo de Gracia 789</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08008</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>carla@example.com</correo>
+                    <fecha_inclusion>2024-03-01</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1055</numero_pedido>
+                        <fecha_compra>2024-03-01</fecha_compra>
+                        <fecha_entrega>2024-03-08</fecha_entrega>
+                        <total_factura>250.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta acolchada</nombre>
+                                <referencia>CA149</referencia>
+                                <precio>120.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Bufanda de lana</nombre>
+                                <referencia>BL150</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Guantes de cuero</nombre>
+                                <referencia>GC151</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+            </pedidos>
+        </trimestre>
+
+
+        <trimestre numero="3">
+            <pedidos>
+                <!-- Pedido 51 -->
+                <pedido>
+                    <nombre>Sofía</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>654987321</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 789</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08007</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>sofia@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1056</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>200.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camiseta de rayas</nombre>
+                                <referencia>CR152</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón corto</nombre>
+                                <referencia>PC153</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas de deporte</nombre>
+                                <referencia>ZD154</referencia>
+                                <precio>90.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 52 -->
+                <pedido>
+                    <nombre>Jorge</nombre>
+                    <apellidos>González</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28004</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>jorge@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1057</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>170.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Abrigo de invierno</nombre>
+                                <referencia>AI155</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Bufanda de lana</nombre>
+                                <referencia>BL156</referencia>
+                                <precio>30.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Guantes de cuero</nombre>
+                                <referencia>GC157</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 53 -->
+                <pedido>
+                    <nombre>Carolina</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>654987321</telefono>
+                    <direccion>
+                        <calle>Ronda de Toledo 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28005</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>carolina@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1058</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>150.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Sudadera con capucha</nombre>
+                                <referencia>SC158</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón jogger</nombre>
+                                <referencia>PJ159</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas deportivas</nombre>
+                                <referencia>ZD160</referencia>
+                                <precio>30.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 54 -->
+                <pedido>
+                    <nombre>Eduardo</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>321654987</telefono>
+                    <direccion>
+                        <calle>Calle Serrano 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28006</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>eduardo@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1059</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>220.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camisa de cuadros</nombre>
+                                <referencia>CC161</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón vaquero</nombre>
+                                <referencia>PV162</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatos de piel</nombre>
+                                <referencia>ZP163</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 55 -->
+                <pedido>
+                    <nombre>Ana</nombre>
+                    <apellidos>López</apellidos>
+                    <telefono>987321654</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 456</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08008</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>ana@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1060</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>170.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Blusa de encaje</nombre>
+                                <referencia>BE164</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón culotte</nombre>
+                                <referencia>PC165</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Botines de cuero</nombre>
+                                <referencia>BC166</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 56 -->
+                <pedido>
+                    <nombre>Javier</nombre>
+                    <apellidos>García</apellidos>
+                    <telefono>321987654</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28013</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>javier@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1061</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>190.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Jersey de lana</nombre>
+                                <referencia>JL167</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de deporte</nombre>
+                                <referencia>PD168</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas deportivas</nombre>
+                                <referencia>ZD169</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 57 -->
+                <pedido>
+                    <nombre>María</nombre>
+                    <apellidos>Ramírez</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Serrano 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28006</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>maria@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1062</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>210.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta de cuero</nombre>
+                                <referencia>CC170</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Camiseta estampada</nombre>
+                                <referencia>CE171</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de vestir</nombre>
+                                <referencia>PV172</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 58 -->
+                <pedido>
+                    <nombre>Lucía</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>321987654</telefono>
+                    <direccion>
+                        <calle>Ronda de Toledo 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28005</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>lucia@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1063</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>230.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Jersey de punto</nombre>
+                                <referencia>JP173</referencia>
+                                <precio>90.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Falda midi</nombre>
+                                <referencia>FM174</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Botas de tacón</nombre>
+                                <referencia>BT175</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 59 -->
+                <pedido>
+                    <nombre>Luis</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>987321654</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 123</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28001</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>luis@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1064</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>190.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camisa de vestir</nombre>
+                                <referencia>CV176</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de traje</nombre>
+                                <referencia>PT177</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatos Oxford</nombre>
+                                <referencia>ZO178</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 60 -->
+                <pedido>
+                    <nombre>Pablo</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>321987654</telefono>
+                    <direccion>
+                        <calle>Paseo de Gracia 789</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08008</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>pablo@example.com</correo>
+                    <fecha_inclusion>2024-03-02</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1065</numero_pedido>
+                        <fecha_compra>2024-03-02</fecha_compra>
+                        <fecha_entrega>2024-03-09</fecha_entrega>
+                        <total_factura>250.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta acolchada</nombre>
+                                <referencia>CA179</referencia>
+                                <precio>120.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Bufanda de lana</nombre>
+                                <referencia>BL180</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Guantes de cuero</nombre>
+                                <referencia>GC181</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+            </pedidos>
+        </trimestre>
+
+
+
+        <trimestre numero="4">
+            <pedidos>
+                <!-- Pedido 61 -->
+                <pedido>
+                    <nombre>Andrés</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle Alcalá 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28009</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>andres@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1066</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>180.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Camisa de rayas</nombre>
+                                <referencia>CR182</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón chino</nombre>
+                                <referencia>PC183</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatos de vestir</nombre>
+                                <referencia>ZV184</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 62 -->
+                <pedido>
+                    <nombre>Sara</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>987321654</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28010</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>sara@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1067</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>210.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Abrigo de paño</nombre>
+                                <referencia>AP185</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Bufanda de lana</nombre>
+                                <referencia>BL186</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Guantes de cuero</nombre>
+                                <referencia>GC187</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 63 -->
+                <pedido>
+                    <nombre>Diego</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>654987321</telefono>
+                    <direccion>
+                        <calle>Ronda de Toledo 123</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28011</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>diego@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1068</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>150.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Jersey de lana</nombre>
+                                <referencia>JL188</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón vaquero</nombre>
+                                <referencia>PV189</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatillas deportivas</nombre>
+                                <referencia>ZD190</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 64 -->
+                <pedido>
+                    <nombre>Lucas</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Serrano 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28012</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>lucas@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1069</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>190.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta vaquera</nombre>
+                                <referencia>CV191</referencia>
+                                <precio>90.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Camiseta básica</nombre>
+                                <referencia>CB192</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón cargo</nombre>
+                                <referencia>PC193</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 65 -->
+                <pedido>
+                    <nombre>Martina</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>321654987</telefono>
+                    <direccion>
+                        <calle>Paseo de Gracia 456</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08009</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>martina@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1070</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>180.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Blusa estampada</nombre>
+                                <referencia>BE194</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Falda plisada</nombre>
+                                <referencia>FP195</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatos de tacón</nombre>
+                                <referencia>ZT196</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 66 -->
+                <pedido>
+                    <nombre>Valeria</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>321987654</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 123</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08010</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>valeria@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1071</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>200.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Vestido de fiesta</nombre>
+                                <referencia>VF197</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Collar de perlas</nombre>
+                                <referencia>CP198</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pulsera de plata</nombre>
+                                <referencia>PP199</referencia>
+                                <precio>50.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 67 -->
+                <pedido>
+                    <nombre>David</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle Mayor 456</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28013</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>david@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1072</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>170.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Abrigo acolchado</nombre>
+                                <referencia>AA200</referencia>
+                                <precio>90.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Jersey cuello alto</nombre>
+                                <referencia>JCA201</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón de vestir</nombre>
+                                <referencia>PV202</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 68 -->
+                <pedido>
+                    <nombre>Laura</nombre>
+                    <apellidos>García</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Ronda de Toledo 789</calle>
+                        <ciudad>Madrid</ciudad>
+                        <codigo_postal>28014</codigo_postal>
+                        <provincia>Madrid</provincia>
+                    </direccion>
+                    <correo>laura@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1073</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>190.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta de punto</nombre>
+                                <referencia>CP203</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Camiseta estampada</nombre>
+                                <referencia>CE204</referencia>
+                                <precio>40.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón cargo</nombre>
+                                <referencia>PC205</referencia>
+                                <precio>70.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 69 -->
+                <pedido>
+                    <nombre>Carlos</nombre>
+                    <apellidos>López</apellidos>
+                    <telefono>654987321</telefono>
+                    <direccion>
+                        <calle>Calle Gran Vía 123</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08015</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>carlos@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1074</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>220.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Chaqueta de cuero</nombre>
+                                <referencia>CC206</referencia>
+                                <precio>100.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Camisa de cuadros</nombre>
+                                <referencia>CC207</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Pantalón vaquero</nombre>
+                                <referencia>PV208</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+                <!-- Pedido 70 -->
+                <pedido>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ramírez</apellidos>
+                    <telefono>321654987</telefono>
+                    <direccion>
+                        <calle>Paseo de Gracia 456</calle>
+                        <ciudad>Barcelona</ciudad>
+                        <codigo_postal>08016</codigo_postal>
+                        <provincia>Barcelona</provincia>
+                    </direccion>
+                    <correo>ana@example.com</correo>
+                    <fecha_inclusion>2024-03-03</fecha_inclusion>
+                    <detalle_pedido>
+                        <numero_pedido>1075</numero_pedido>
+                        <fecha_compra>2024-03-03</fecha_compra>
+                        <fecha_entrega>2024-03-10</fecha_entrega>
+                        <total_factura>200.00</total_factura>
+                        <productos>
+                            <producto>
+                                <nombre>Blusa de seda</nombre>
+                                <referencia>BS209</referencia>
+                                <precio>80.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Falda plisada</nombre>
+                                <referencia>FP210</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                            <producto>
+                                <nombre>Zapatos de tacón</nombre>
+                                <referencia>ZT211</referencia>
+                                <precio>60.00</precio>
+                                <unidades>1</unidades>
+                            </producto>
+                        </productos>
+                    </detalle_pedido>
+                </pedido>
+            </pedidos>
+        </trimestre>
+
+    </año>
+</raiz>
